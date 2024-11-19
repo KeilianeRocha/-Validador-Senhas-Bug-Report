@@ -38,3 +38,7 @@ A mensagem de validação exige que a senha tenha:
 
 ## 🚀 Conclusão
 Este projeto reforça a importância de testes manuais para identificar inconsistências críticas e garantir a segurança dos usuários.
+
+
+
+
